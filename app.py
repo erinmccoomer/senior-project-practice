@@ -1,3 +1,5 @@
+Senior Project Developer Profile
+
 print("Name: Erin McCoomer")
 print("Major: Computer Science")
 print("Technology Interest: Data Analytics, Artificial Intelligence, and Web Design")
