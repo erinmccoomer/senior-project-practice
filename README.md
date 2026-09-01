@@ -1,6 +1,14 @@
 # Senior Project Practice
 
-This repository contains my Senior Project developer profile.
+## Student Developer Profile
+
+**Name:** Erin M.  
+**Technology Interest:** Data Analytics and Artificial Intelligence  
+**Senior Project Skill Goal:** Strengthen my full-stack development skills  
+
+## Development Workflow
+
+Branch → Code → Commit → Push → Pull Request → Review → Merge
 
 ## Running the Program
 
